@@ -1,0 +1,43 @@
+New Relic Monitoring for SAP Solutions
+Version 3.0 Packing List
+
+Main Packages:
+
+1.  NRM4SAP_V3.0.zip  - Main package for New Relic Monitoring for SAP Solutions V3.0
+2.  NRE2EV30.zip.  - Fiori and SAP Gateway Monitoring V3.0
+3.  NRM4SAPV20_Supplementary_Pack.zip - Supplementary Installation Packages V3.0
+
+Supplementary Packages:
+1.  K-300AOUINNEWR_752.SAR - Package for SAP_BASIS 752 and SAP_ABA 752
+2.  K-300AOIINNEWR_758S4FND108.SAR - Package for S/4 Foundation 2023
+3.  K-300AOIINNEWR_756DWCORE300.SAR - Package for S/4 BW 2021
+
+Support Packages:
+SP01
+SP02
+SP03
+SP04
+SP05
+SP06
+SP07
+    
+Within the Main Packages there are following files:
+
+K-300AOIINNEWR.SAR              New Installation Package;
+K-300AOUINNEWR.SAR              Upgrade Package from V2.50.
+_NEWR_DATA_PROVIDER.SAP         SAP Authorization Role for RFC system User ID
+INSTALLATION_GUIDE_V3.0.pdf     Installation Guide
+Release Note V3.0.pdf           Release Note V3.0
+
+Supplementary Packages
+
+K-300AOIINNEWR_NetWeaver.SAR. - For Netweawer Systems. (740)
+K-300AOIINNEWR_HANA_S4FND.SAR. - For S/4 Foundation Systems.
+K-300AOIINNEWR_HANA_DW4CORE.SAR - For BW Sysems based on S/4 HANA. 
+
+
+
+
+
+
+  

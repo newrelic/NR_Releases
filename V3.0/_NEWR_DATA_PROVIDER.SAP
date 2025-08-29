@@ -1,0 +1,141 @@
+DATE                                              20250813                                          234331
+RELEASE                                           740
+LOADED_AGRS                                       /NEWR/DATA_PROVIDER
+AGR_DEFINE                                        002/NEWR/DATA_PROVIDER                                         KYANG       20220328171958000000000000000KYANG       20250813234308000000000000000
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000001/SDF/E2E  T-E255188800    U  O000024
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000002S_ADMI_FCDT-E255188800    U  O000027
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000003S_APPL_LOGT-E255188800    U  O000067
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000004S_BGRFC   T-E255188800    U  O000004
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000005S_BGRFC   T-E255188801    U  O000009
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000006S_DBCON   T-E255188800    U  O000030
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000007S_RFC     T-E255188800    U  O000015
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000008S_SRT_ELOGT-E255188800    U  O000036
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000009S_SRT_MONIT-E255188800    U  O000039
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000010S_TABU_DIST-E255188800    U  O000046
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000011S_TABU_NAMT-E255188800    U  O000050
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000012S_TCODE   T-E255188800    U  O000020
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000013S_TOOLS_EXT-E255188800    U  O000054
+AGR_1250                                          002/NEWR/DATA_PROVIDER           000014S_XMB_MONIT-E255188800    U  O000057
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000001/SDF/E2E  T-E255188800    ACTVT     03                                                                              U  O000025
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000002S_APPL_LOGT-E255188800    ACTVT     03                                                                              U  O000068
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000003S_APPL_LOGT-E255188800    ALG_OBJECT*                                                                               U  O000069
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000004S_APPL_LOGT-E255188800    ALG_SUBOBJ*                                                                               U  O000070
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000005S_ADMI_FCDT-E255188800    S_ADMI_FCDST0R                                                                            U  O000028
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000006S_RFC     T-E255188800    ACTVT     16                                                                              U  O000016
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000007S_RFC     T-E255188800    RFC_NAME  /NEWR/*                                                                         U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000008S_RFC     T-E255188800    RFC_TYPE  FUGR                                                                            U  O000018
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000009S_RFC     T-E255188800    RFC_TYPE  FUNC                                                                            U  O000018
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000010S_SRT_ELOGT-E255188800    ACTVT     03                                                                              U  O000037
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000011S_TABU_DIST-E255188800    ACTVT     03                                                                              U  O000047
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000012S_TABU_DIST-E255188800    DICBERCLS *                                                                               U  O000048
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000013S_TABU_NAMT-E255188800    ACTVT     03                                                                              U  O000051
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000014S_TABU_NAMT-E255188800    TABLE     /*                                      USQ*                                    U  O000052
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000015S_RFC     T-E255188800    RFC_NAME  DB_ORA_MAIN_LIST                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000016S_TOOLS_EXT-E255188800    AUTH      *                                                                               U  O000055
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000017S_RFC     T-E255188800    RFC_NAME  DDIF_FIELDINFO_GET                                                              U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000018S_RFC     T-E255188800    RFC_NAME  FUNCTION_EXISTS                                                                 U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000019S_RFC     T-E255188800    RFC_NAME  GET_DBDATA_MSS                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000020S_RFC     T-E255188800    RFC_NAME  GET_STATICSERVER_MSS                                                            U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000021S_RFC     T-E255188800    RFC_NAME  MSS_COLL_LIST                                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000022S_RFC     T-E255188800    RFC_NAME  MSS_GET_DB_SIZE_INFO                                                            U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000023S_RFC     T-E255188800    RFC_NAME  MSS_GET_SAPRELEASE                                                              U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000024S_RFC     T-E255188800    RFC_NAME  MSS_GET_SQLREQUESTS                                                             U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000025S_RFC     T-E255188800    RFC_NAME  RFCPING                                                                         U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000026S_RFC     T-E255188800    RFC_NAME  RFC_GET_SYSTEM_INFO                                                             U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000027S_RFC     T-E255188800    RFC_NAME  RFC_READ_TABLE                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000028S_RFC     T-E255188800    RFC_NAME  SRTT_GET_REMOTE_TADIR_ENTRY                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000029S_RFC     T-E255188800    RFC_NAME  SWNC_COLLECTOR_GET_AGGREGATES                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000030S_RFC     T-E255188800    RFC_NAME  SWNC_GET_WORKLOAD_SNAPSHOT                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000031S_RFC     T-E255188800    RFC_NAME  SWNC_GET_WORKLOAD_STATRECS                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000032S_RFC     T-E255188800    RFC_NAME  TH_GET_VIRT_HOST_DATA                                                           U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000033S_RFC     T-E255188800    RFC_NAME  TH_GET_PARAMETER                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000034S_ADMI_FCDT-E255188800    S_ADMI_FCDPADM                                                                            U  O000028
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000035S_TCODE   T-E255188800    TCD       SM20                                                                            U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000036S_TCODE   T-E255188800    TCD       /IWFND/VIEW_LOG                                                                 U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000038S_SRT_MONIT-E255188800    ACTVT     03                                                                              U  O000040
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000039S_SRT_MONIT-E255188800    WSM_COMPO *                                                                               U  O000041
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000040S_SRT_MONIT-E255188800    WSM_IFNAME*                                                                               U  O000042
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000041S_SRT_MONIT-E255188800    WSM_IFNS  *                                                                               U  O000043
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000042S_SRT_MONIT-E255188800    WSM_PARTY *                                                                               U  O000044
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000043S_TCODE   T-E255188800    TCD       /IWFND/ERROR_LOG                                                                U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000044S_RFC     T-E255188800    RFC_NAME  CCMSBI_DETAILED_SERVER_INFO                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000045S_BGRFC   T-E255188800    ACTVT     03                                                                              U  O000005
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000046S_BGRFC   T-E255188800    BGRFC_D_IN*                                                                               U  O000006
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000047S_BGRFC   T-E255188800    BGRFC_D_OU*                                                                               U  O000007
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000048S_BGRFC   T-E255188800    BGRFC_TYPE*                                                                               U  O000008
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000049S_BGRFC   T-E255188801    ACTVT     03                                                                              U  O000010
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000050S_BGRFC   T-E255188801    BGRFC_D_IN*                                                                               U  O000011
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000051S_BGRFC   T-E255188801    BGRFC_D_OU*                                                                               U  O000012
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000052S_BGRFC   T-E255188801    BGRFC_TYPE*                                                                               U  O000013
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000054S_DBCON   T-E255188800    ACTVT     03                                                                              U  O000031
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000055S_DBCON   T-E255188800    ACTVT     71                                                                              U  O000031
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000056S_DBCON   T-E255188800    DBA_DBHOST*                                                                               U  O000032
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000057S_DBCON   T-E255188800    DBA_DBSID *                                                                               U  O000033
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000058S_DBCON   T-E255188800    DBA_DBUSER*                                                                               U  O000034
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000059S_RFC     T-E255188800    RFC_NAME  /NRE2E/*                                                                        U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000060S_RFC     T-E255188800    RFC_NAME  /NRSOLMAN/*                                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000061S_RFC     T-E255188800    RFC_NAME  /SDF/E2EEM_GET_DATA                                                             U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000062S_RFC     T-E255188800    RFC_NAME  /SDF/E2E_DISPATCHED_COLLECTOR                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000063S_RFC     T-E255188800    RFC_NAME  /SDF/IMA_DC_IDOC                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000064S_RFC     T-E255188800    RFC_NAME  SSI_SERVER_INFO_GET_SESSIONS                                                    U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000065S_RFC     T-E255188800    RFC_NAME  BAPI_USER_GET_DETAIL                                                            U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000066S_XMB_MONIT-E255188800    SXMBSERV  *                                                                               U  O000064
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000067S_XMB_MONIT-E255188800    SXMBPRTTYP*                                                                               U  O000063
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000068S_XMB_MONIT-E255188800    SXMBPRTAG *                                                                               U  O000062
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000069S_RFC     T-E255188800    RFC_NAME  SXMB_GET_CHILD_MESSAGE_IDS                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000070S_RFC     T-E255188800    RFC_NAME  DD_DOMA_GET                                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000071S_RFC     T-E255188800    RFC_NAME  RFC_GET_FUNCTION_INTERFACE                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000072S_RFC     T-E255188800    RFC_NAME  DTL_MT_GET_OBJECT_LIST                                                          U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000073S_RFC     T-E255188800    RFC_NAME  DB02_ORA_FILL_TS                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000074S_RFC     T-E255188800    RFC_NAME  SAPWL_STATDIR_FROM_REMOTE_SYS                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000075S_RFC     T-E255188800    RFC_NAME  SXMB_GET_ERRLABEL_ATTR                                                          U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000076S_XMB_MONIT-E255188800    SXMBPARTY *                                                                               U  O000061
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000077S_RFC     T-E255188800    RFC_NAME  SXMB_GET_MESSAGE_DATA                                                           U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000078S_RFC     T-E255188800    RFC_NAME  SXMB_GET_MESSAGE_LIST                                                           U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000079S_RFC     T-E255188800    RFC_NAME  SXMB_GET_MESSAGE_PAYLOAD                                                        U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000080S_RFC     T-E255188800    RFC_NAME  SXMB_GET_MESSAGE_STATUS                                                         U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000081S_RFC     T-E255188800    RFC_NAME  SXMB_GET_STATUS_ATTRIBUTES                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000082S_XMB_MONIT-E255188800    SXMBIFNS  *                                                                               U  O000060
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000083S_XMB_MONIT-E255188800    SXMBIFNAME*                                                                               U  O000059
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000084S_XMB_MONIT-E255188800    ACTVT     03                                                                              U  O000058
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000085S_XMB_MONIT-E255188800    ACTVT     29                                                                              U  O000058
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000086S_RFC     T-E255188800    RFC_NAME  ENQUEUE_REPORT                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000087S_RFC     T-E255188800    RFC_NAME  /IWFND/SUTIL_PERF_GET_SUMMARY                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000088S_RFC     T-E255188800    RFC_NAME  /IWFND/SUTIL_LOG_GET_RESULT                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000089S_RFC     T-E255188800    RFC_NAME  /IWBEP/SUTIL_LOG_GET_RESULT                                                     U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000090S_TCODE   T-E255188800    TCD       /IWBEP/ERROR_LOG                                                                U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000091S_RFC     T-E255188800    RFC_NAME  /SDF/GET_GW_STATS                                                               U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000092S_RFC     T-E255188800    RFC_NAME  /SDF/CCM_AGS_CC_GET_JOBLOG                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000093S_RFC     T-E255188800    RFC_NAME  /SDF/CCM_AGS_CC_GET_JOBS                                                        U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000094S_RFC     T-E255188800    RFC_NAME  /SDF/CMO_GET_CLIENT_REMOTE                                                      U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000095S_RFC     T-E255188800    RFC_NAME  /SDF/GET_APP_LOG                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000096S_RFC     T-E255188800    RFC_NAME  OCS_GET_INSTALLED_COMPS                                                         U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000097S_RFC     T-E255188800    RFC_NAME  OCS_GET_INSTALLED_SWPRODUCTS                                                    U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000098S_RFC     T-E255188800    RFC_NAME  SMUM_XML_PARSE                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000099S_TCODE   T-E255188800    TCD       SM04                                                                            U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000100S_TCODE   T-E255188800    TCD       PADM                                                                            U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000101S_RFC     T-E255188800    RFC_NAME  TH_SERVER_LIST                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000102S_RFC     T-E255188800    RFC_NAME  BAPI_XMI_LOGON                                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000103S_RFC     T-E255188800    RFC_NAME  /SDF/GET_JOB_INFO                                                               U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000104S_RFC     T-E255188800    RFC_NAME  BAPI_XMI_CHECK_VERSION                                                          U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000105S_RFC     T-E255188800    RFC_NAME  BAPI_XBP_JOB_SPOOLLIST_READ_20                                                  U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000106S_RFC     T-E255188800    RFC_NAME  /SDF/IMA_DC_WS_ABAP                                                             U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000107S_TABU_NAMT-E255188800    TABLE     USS*                                    Z*                                      U  O000052
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000108S_RFC     T-E255188800    RFC_NAME  BAPI_APPLICATIONLOG_GETDETAIL                                                   U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000109S_RFC     T-E255188800    RFC_NAME  BAPI_MESSAGE_GETDETAIL                                                          U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000110S_RFC     T-E255188800    RFC_NAME  /SDF/MON_TH_WPINFO                                                              U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000111S_RFC     T-E255188800    RFC_NAME  /SDF/SMON_USER_MEMORY                                                           U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000112S_RFC     T-E255188800    RFC_NAME  SX_SNDREC_SELECT                                                                U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000113S_TCODE   T-E255188800    TCD       SM51                                                                            U  O000021
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000114S_RFC     T-E255188800    RFC_NAME  TH_GET_PLUGIN_INFO                                                              U  O000017
+AGR_1251                                          002/NEWR/DATA_PROVIDER           000115S_SRT_MONIT-E255188800    ACTVT     16                                                                              U  O000040
+AGR_TEXTS                                         002/NEWR/DATA_PROVIDER           E00000New Relic Data Provider RFC User Authorization
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           COLL_AGR  KYANG       20220328171958KYANG       20220328171958
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           DEVCLASS  KYANG       20220328171958KYANG       20220328171958
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           FORCE_MIX KYANG       20220328171958KYANG       20250813234308
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           MASTER_LANKYANG       20220328171958KYANG       20220328171958E
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           RESP_USER KYANG       20220328171958KYANG       20220328171958
+AGR_FLAGS                                         002/NEWR/DATA_PROVIDER           SYS_FLAG  KYANG       20220328171958KYANG       20220328171958
+AGR_TIME                                          002/NEWR/DATA_PROVIDER           PROFILE   KYANG       20220328171959000000000000000KYANG       20250813234308000000000000000
+AGR_TIME                                          002/NEWR/DATA_PROVIDER           SYSTTARTMPKYANG       20220328171958000000000000000KYANG       20220328171958000000000000000
+AGR_LSD                                           002/NEWR/DATA_PROVIDER                                         E
